@@ -1,8 +1,6 @@
 FrontEnd Ideas Repositories list
 ===================
 
-
-----------
 Repositories
 -------------
 We divide our list for development categories to facilitate and create an index that you can confer **here!**
@@ -17,4 +15,3 @@ We divide our list for development categories to facilitate and create an index 
 * [Node-SASS](https://github.com/sass/node-sass)
 	Aqui vem a descrição 
 
-----------
