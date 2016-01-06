@@ -18,6 +18,8 @@ We divide our list for development categories to facilitate and create an index 
 	ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard. ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009.
 * [TypeScript](https://github.com/Microsoft/TypeScript) -
 	TypeScript is a language for application-scale JavaScript. TypeScript adds optional types, classes, and modules to JavaScript. TypeScript supports tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript. 
+* [Coffeescript] (http://coffeescript.org) - 
+	CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
 
 ###Frameworks
 
@@ -36,8 +38,11 @@ We divide our list for development categories to facilitate and create an index 
 #### Pre-Processors
 
  
-* [Node-SASS](https://github.com/sass/node-sass)
-	Aqui vem a descrição 
-	
+* [Node-SASS](https://github.com/sass/node-sass) -
+	Node-sass is a library that provides binding for Node.js to libsass, the C version of the popular stylesheet preprocessor, Sass.
+* [Less] (https://github.com/less/less.js) -
+	The dynamic stylesheet language. 
+
+
 #### Pos-Processors
 
